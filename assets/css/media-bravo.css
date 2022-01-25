@@ -1,0 +1,113 @@
+@media (max-width: 1199.98px) {
+
+}
+@media (max-width: 1050.98px) {
+    .wishlist-head {
+        flex-direction: column;
+    }
+    .wishlist-head .cart_time{
+        margin: 10px 0;
+    }
+}   
+@media (max-width: 991.98px) {
+    .wishlist-content .product-page__info-rate {
+        flex-direction: column;
+        align-items: flex-start;
+        margin-top: 10px;
+    }
+    .wishlist-content .product-page__info-rate .product_orders {
+        padding-left: 0;
+        margin-left: 0;
+    }
+    .wishlist-content .rate-title {
+        margin: 5px 0;
+    }
+    .wishlist-content .product-page__info-rate .product_orders::after {
+        display: none;
+    }
+    .container-side.left {
+        display: none;
+    }
+    .container-side.right {
+        width: 100%;
+    }
+    .item-dashboard-body .table tbody tr th {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+    .flexes-blocks {
+        flex-direction: column;
+        
+    }
+    .container-side.right .right-side .flexe-block.-left {
+        width: 100%;
+    }
+    .container-side.right .right-side .flexe-block.-right {
+        width: 100%;
+    }
+    .scroll-table {
+        overflow: auto;
+    }
+    .scroll-table > .table {
+        min-width: 500px;
+    }
+    .body-table-info {
+        height: auto;
+        overflow-y: unset;
+    }
+    .body-table-info .table {
+        min-width: 500px;
+    }
+}
+
+@media (max-width: 767.98px) {
+    .acc-detalis {
+        width: 100%;
+    }
+    .card-info {
+        width: calc(50% - 17px);
+    }
+    .tabs.address_tab li {
+        padding: 7px 50px;
+    }
+    .footer__nav-menu {
+        margin: 5px 0;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .container-side.right .right-side {
+        padding: 10px;
+    }
+    .order-inner {
+        flex-direction: column;
+    }
+    .three-input {
+        flex-direction: column;
+    }
+    .acc-input {
+        width: auto;
+    }
+    .card-info {
+        width: calc(100% - 17px);
+    }
+    .tabs.address_tab li {
+        padding: 7px 25px;
+    }
+}
+
+@media (min-width: 576px) {
+
+}
+
+@media (min-width: 768px) {
+
+}
+
+@media (min-width: 992px) {
+
+}
+
+@media (min-width: 1200px) {
+
+}

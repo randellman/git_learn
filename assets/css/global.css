@@ -1,0 +1,117 @@
+body {
+    font-family: Arial, Helvetica, Geneva, sans-serif;
+    font-size: 10px;
+    line-height: 1.4;
+    font-style: normal;
+    font-weight: normal;
+    color: #272727;
+    background-color: #F8FAFB;
+}
+
+.pl20 {
+    padding-left: 20px !important;
+}
+
+.pr20 {
+    padding-right: 20px !important;
+}
+
+
+.pl25 {
+    padding-left: 25px !important;
+}
+
+.pr25 {
+    padding-right: 25px !important;
+}
+
+.pl30 {
+    padding-left: 30px !important;
+}
+
+.pl40 {
+    padding-left: 40px !important;
+}
+
+.pr40 {
+    padding-right: 40px !important;
+}
+
+.container {
+    max-width: 1340px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.container1360 {
+    max-width: 1360px;
+}
+
+.container1355 {
+    max-width: 1355px;
+}
+
+.container-big {
+    max-width: 1880px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.container-middle {
+    max-width: 1470px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.slick-list {
+    margin: 0 -5px;
+}
+
+.slick-slide {
+    margin: 0 5px;
+}
+
+.slick-slide .product {
+    max-width: 193px;
+}
+
+.slick-arrow {
+    position: absolute;
+    top: -20px;
+}
+
+.slick-prev {
+    right: 10px;
+}
+
+.slick-next {
+    right: 0;
+}
+
+.btn {	
+	padding: 3.5px 8px;
+	color: var(--white);
+	border: 1px solid transparent;
+    background-color: transparent;
+	font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 15px;
+	transition: all 0.3s ease;	 
+	border-radius: 4px;
+	text-align: center;
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;  
+    color: #272727; 
+}
+
+.btn-green {
+    background: #1BA5A8;
+    border: 1px solid #1BA5A8;
+    color: #fff;
+}
+
